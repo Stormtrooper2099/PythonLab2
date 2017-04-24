@@ -1,0 +1,15 @@
+English text:
+Hello, my name is Sergey!
+I am a student of Donetsk National University.
+I like people, who study on my group.
+Thats all, what i want to tell you.
+
+Русский текст:
+Привет, меня зовут Сергей!
+Я студент Донецкого национального университета.
+Мне нравятся люди, которые учатся в моей группе.
+Вот и все, что я хочу вам сказать.
+
+Символы/Symbols:
+!@#$%^&*()_+
+@#!@#$%^&*()_++++?/...,,<<<..
